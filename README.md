@@ -1,2 +1,2 @@
-# Poptracker Pack for Archipelago POPGOES Arcade Manual
-This is the first time I'm making a Poptracker pack, so help would be greatly appreciated!
+# Poptracker Pack for POPGOES Arcade Manual
+This is my first time making a Poptracker pack, so help would be greatly appreciated!
